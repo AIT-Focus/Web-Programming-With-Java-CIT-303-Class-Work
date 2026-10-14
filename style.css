@@ -1,0 +1,10 @@
+/* Changing Background Color */
+body{
+    background-color: blanchedalmond;
+}
+/* Grouping Elements */
+h1,h2,p{
+    text-align: center;
+    background-color: aquamarine;
+    color: brown;
+}
